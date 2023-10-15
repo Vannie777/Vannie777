@@ -1,4 +1,4 @@
-# **Hello the world**
+# **Hello world**
 ### _Hello UK_
 - 👋 Hi, I’m @Vannie777
 - 👀 I’m interested in [detective novels](https://www.britannica.com/topic/Sherlock-Holmes)
